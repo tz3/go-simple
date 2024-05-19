@@ -5,7 +5,7 @@ The main purpose for initialize this project is, I do some side projects and eac
 So, I decided to write something very general that will save a lot of time in future development.
 
 ## Installation & Instructions
-Please checkout the [instructions.md](instructions.md) file.
+Please checkout the [instructions.md](INSTRUCTIONS.md) file.
 
 ## Project Structure & Improvements
 
